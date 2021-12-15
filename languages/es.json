@@ -1,0 +1,19 @@
+{
+    "profile":{
+        "rol":"Desarrollador de Software",
+        "description": "Actualmente me encuentro finalizando la carrera de Analista de Sistemas en ORT y la verdad es que me apasiona tanto el desarrollo como las nuevas tecnologías. Mis espectativas están orientadas a insertarme laboralmente en una empresa que me permita seguir creciendo en el mundo del desarrollo y poder adquirir nuevas experiencias. Por mi parte quiero que sepan que siempre doy lo mejor, aportando un total compromiso, responsabilidad e iniciativa a la hora de realizar las tareas desempeñadas."
+    },
+    "experience": {
+        "first-job-title": "Analista de Sistemas",
+        "first-job-date": "Julio de 2020 a la actualidad",
+        "first-job-description": "Tecnologías vistas hasta el momento: UML, Java, .NET, HTML, CSS, JavaScript, SQL, GIT, VUE y Bootstrap.",
+        "second-job-title": "Testing",
+        "second-job-date": "Abril de 2021 a Diciembre de 2021",
+        "second-job-description": "Curso de Testing realizado en el marco del Programa de Codo a Codo del Gobierno de la Ciudad de Buenos Aires.",
+        "last-job-title": "Cursos varios",
+        "last-job-date": "Marzo de 2020 a la actualidad",
+        "last-job-description": "Desde hace unos años vengo realizando cursos de Udemy y buscando información en la documentación oficial de cada lenguaje o nueva tecnología. También me gusta ver canales de Youtube para mejorar y adquirir nuevos conceptos.",
+        "hobbies-title": "Viajar es mi mayor hobbie",
+        "hobbies-description": "Viajar es una de las mejores cosas que me puede pasar. Mucho más si es a un lugar que no lo conozca ! Cuando tengo algún timpo libre me gusta recorrer algún pueblito distinto y disftrutar al aire libre y de sus comidas."
+    }
+}

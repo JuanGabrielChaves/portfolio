@@ -1,0 +1,19 @@
+{
+    "profile":{
+        "rol":"Software Developer",
+        "description": "I am currently finishing my degree as a Systems Analyst at ORT, and the truth is that I am passionate about software development and new technologies. My expectations are oriented to start working in a company that allows me to continue growing in the world of development and to gain new experiences. For my part, I want you to know that I always give my best, providing total commitment, responsibility and initiative when carrying out the tasks performed."
+    },
+    "experience" : {
+        "first-job-title": "Systems Analyst",
+        "first-job-date": "July 2020 to present",
+        "first-job-description": "Technologies used so far: UML, Java, .NET, HTML, CSS, JavaScript, SQL, GIT, VUE and Bootstrap.",
+        "second-job-title": "Testing",
+        "second-job-date": "April 2021 to December 2021",
+        "second-job-description": "Testing Course carried out in Codo a Codo. Codo a Codo is a course carried out by the Government of the City of Buenos Aires in Argentina.",
+        "last-job-title": "Various Courses",
+        "last-job-date": "March 2020 to present",
+        "last-job-description": "For a few years I have been taking Udemy courses and looking for information in the official documentation of each language or new technology. I also like to watch YouTube channels to improve and acquire new concepts.",
+        "hobbies-title": "Traveling is my biggest hobby",
+        "hobbies-description": "Traveling is one of the best things that can happen to me. Much more if it is to a place that does not know it! When I have some free time I like to visit a different town and enjoy the outdoors and its meals."
+    }
+}
