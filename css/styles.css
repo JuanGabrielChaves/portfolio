@@ -2,7 +2,7 @@
     --primary-color:hsl(214,84%,56%);
     --text-color:hsl(0,0%,31%); 
     --bg-color:hsl(0,0%,90%);   
-    --bg-card-color:var(0,0%,98%);
+    --bg-card-color:hsl(0,0%,98%);
     --border-radius:.4em;
     --transition: color 0.1s, background-color 0.2s ease-in-out;
     --skill-bar-length: 0%;
@@ -30,10 +30,10 @@ body{
     font-family: sans-serif;
 }
 
-body.dark{
+body.dark{   /*Acá cuando estoy en Dark Mode sustituyo el valor de las variables*/
     --text-color: hsl(0,0%,83%);
     --bg-color:hsl(0,0%,15%);
-    --bg-card-color:var(0,0%,98%);
+    --bg-card-color:hsl(0,0%,20%);
 }
 
 .header{
