@@ -1,5 +1,5 @@
 :root{
-    --primary-color:hsl(214,84%,56%);
+    --primary-color:hsl(214,61%,52%);
     --text-color:hsl(0,0%,31%); 
     --bg-color:rgb(229, 234, 243);   
     --bg-card-color:hsl(0,0%,98%);
@@ -13,7 +13,7 @@
 }
 
 a{
-    color: var(--primary-color);
+    color: hsl(0,0%,100%);
     text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ body{
 }
 
 body.dark{   /*Acá cuando estoy en Dark Mode sustituyo el valor de las variables*/
-    --text-color: hsl(0,0%,83%);
+    --text-color: hsl(0,0%,100%);
     --bg-color:hsl(0,0%,15%);
     --bg-card-color:hsl(0,0%,20%);
 }
@@ -101,19 +101,19 @@ body.dark{   /*Acá cuando estoy en Dark Mode sustituyo el valor de las variable
 }
 
 .colors_item--blue{
-    --primary-color:hsl(214,84%,56%);
+    --primary-color:hsl(214,61%,52%);
 }
 
 .colors_item--green{
-    --primary-color:hsl(150,84%,56%);
+    --primary-color:hsl(150,15%,45%);
 }
 
 .colors_item--purple{
-    --primary-color:hsl(276,84%,56%);
+    --primary-color:hsl(276, 22%, 47%);
 }
 
 .colors_item--orange{
-    --primary-color:hsl(46,84%,56%);
+    --primary-color:hsl(46,55%,56%);
 }
 
 .main{
